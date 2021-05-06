@@ -68,9 +68,13 @@ header nav ul li {
   background-color: skyblue;
 }
 
-.welcome {
+.welcome,
+.welcome-1 {
   margin: auto;
-  font-size: 24px;
+}
+.welcome h2,
+.welcome-1 h2 {
+  font-size: 40px;
 }
 
 .intro {
@@ -84,10 +88,6 @@ header nav ul li {
   margin: 20px 20px 20px 100px;
 }
 
-.welcome-1 {
-  margin: auto;
-  font-size: 24px;
-}
 /* End Hero */
 
 /* flex container styling start*/
@@ -125,8 +125,9 @@ header nav ul li {
   border: navy;
   border-radius: 10px;
   margin-top: 400px;
-
+  margin-left: 650px;
 }
+
 
 .flex-container #horiseon {
   background-image: url("images/horiseon.png");
@@ -140,16 +141,16 @@ header nav ul li {
   background-position: center;
 }
 
-#coming-soon1 h3,
-#coming-soon2 h3 {
-  color: orange;
-  text-shadow: 2px 2px black;
-}
-
 .flex-container #coming-soon2 {
   background-image: url("images/stream.jpg");
   background-size: cover;
   background-position: center;
+}
+
+#coming-soon1 h3,
+#coming-soon2 h3 {
+  color: orange;
+  text-shadow: 2px 2px black;
 }
 
 .flex-container article {
@@ -166,9 +167,6 @@ header nav ul li {
   font-size: 22px;
 }
 
-#firstproject h3 {
-  margin-left: 650px;
-}
 /*flex container styling end*/
 
 /*Footer*/
@@ -237,11 +235,16 @@ header nav ul li {
 .welcome h2 {
   text-align: center;
   margin-left: 45px;
+  font-size: 32px;
 }
 
 .welcome-1 {
   text-align: center;
   margin-right: 20px;
+}
+
+.welcome-1 h2 {
+  font-size: 32px;
 }
 
 .intro {
@@ -451,7 +454,7 @@ header nav ul li {
   }
   
   .flex-container h3 {
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 80px;
   }
   #contact-me h3 {
