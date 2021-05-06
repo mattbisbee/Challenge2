@@ -16,9 +16,9 @@ The images were to showcase my deployed projects and have room to add a few more
 Overall, I tried to use as many of the concepts we have been studying about, even though they were not explicity required. I used semantic elements throughout the page and included alt attributes for the images. I added my own favicon using an image I took in Amsterdam of a slice of dutch apple pie. All the other images on the page were images taken by me (excluding the project images of the deployed websites). I also wrote notes in the CSS and HTML files.
 
 ### **Location:**
-Website can be found at :
+Website can be found at :https://mattbisbee.github.io/Challenge2/
 
-GitHub: 
+GitHub: https://github.com/mattbisbee/Challenge2.git
 
 ## **Images:**
 ![Screenshot](assets/images/portfolio1.jpg)
