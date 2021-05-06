@@ -134,6 +134,24 @@ header nav ul li {
   background-position: center;
 }
 
+.flex-container #coming-soon1 {
+  background-image: url("images/trees-sky.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#coming-soon1 h3,
+#coming-soon2 h3 {
+  color: orange;
+  text-shadow: 2px 2px black;
+}
+
+.flex-container #coming-soon2 {
+  background-image: url("images/stream.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 .flex-container article {
   margin: 20px;
   height: 400px;
@@ -233,6 +251,7 @@ header nav ul li {
 
 .flex-container p {
   font-size: 28px;
+  margin: 10px;
 }
 
 .flex-container #firstproject {
