@@ -21,5 +21,6 @@ Website can be found at :
 GitHub: 
 
 ## **Images:**
-![Screenshot](assets/images/page-1.PNG)
-![Screenshot](assets/images/page-2.PNG)
+![Screenshot](assets/images/portfolio1.jpg)
+![Screenshot](assets/images/portfolio2.jpg)
+![Screenshot](assets/images/portfolio3.jpg)
