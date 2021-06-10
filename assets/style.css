@@ -24,7 +24,9 @@ a:hover {
 }
 
 #horiseon-link:hover,
-#firstproject-link:hover {
+#firstproject-link:hover,
+#weatherapp-link,
+#quote-generator-link {
   padding: 0;
 }
 
@@ -85,6 +87,7 @@ header nav ul li {
 .intro {
   align-content: center;
   background-image: url("images/Matt-1.jpg");
+  background-position:center;
   width: 500px;
   background-size: cover;
   background-position: center;
@@ -123,7 +126,6 @@ header nav ul li {
   width: 1690px;
   border-radius: 50px;
   background-size: cover;
-  object-position: center top;
   color: orange;
   font-size: 25px;
 }
@@ -140,19 +142,32 @@ header nav ul li {
   font-size: 25px;
 }
 
-.flex-container #coming-soon1 {
-  background-image: url("images/trees-sky.jpg");
-  background-size: cover;
-  background-position: center;
+#weatherapp-link {
+  background-image: url("images/capture2.jpg");
+  background-position:center;
+  display: block;
+  height: 400px;
+  width: 400px;
+  border-radius: 50px;
+  background-size:cover;
+  margin: unset;
+  color: orange;
+  font-size: 25px;
 }
 
-.flex-container #coming-soon2 {
-  background-image: url("images/stream.jpg");
-  background-size: cover;
-  background-position: center;
+#quote-generator-link {
+  background-image: url("images/quotegenerator.jpg");
+  background-position:center;
+  display: block;
+  height: 400px;
+  width: 400px;
+  border-radius: 50px;
+  background-size:cover;
+  margin: unset;
+  color: orange;
+  font-size: 25px;
 }
 
-#coming-soon1 h3,
 #coming-soon2 h3 {
   color: orange;
   text-shadow: 2px 2px black;
