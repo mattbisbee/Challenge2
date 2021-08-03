@@ -21,7 +21,7 @@ a:hover {
   text-shadow:none;
 }
 #horiseon-link:hover,
-#firstproject-link:hover,
+#rambleon-link:hover,
 #weatherapp-link,
 #quote-generator-link {
   padding: 0;
@@ -106,8 +106,8 @@ header nav ul li {
   font-size: 36px;
   text-align: center;
 }
-#firstproject-link {
-  background-image: url("images/runbuddysite.PNG");
+#rambleon-link {
+  background-image: url("images/rambleonsite.jpg");
   display: block;
   height: 500px;
   width: 1690px;
